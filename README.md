@@ -1,7 +1,15 @@
 ## Hi there 👋
 
+I'm a ✨ PhD student ✨ with a strong passion for computer vision and AI. 🔎 My research is evolving around **visual privacy in surveillance** and **multi-modal surveillance** for crime detection. I explore the fusion of multiple modalities to detect subtle suspicious activities, including burglary, drug-smuggling, illegal migration, and more. 
+
+🎓 I received my **M.Sc. in Electrical Engineering** ⚡(AI Track) from **TU/e in Eindhoven** NL with honors in 2022. After graduation, I joined **Cyclomedia B.V.** as **Computer Vision Expert**, where I worked on design and deployment of several deep-learning driven computer vision solutions for insights extraction from street imagery. This included Litter Detection (in 2D), Pole Details detection (in 3D), Traffic Sign Analysis, and more. Since then, I've been on a mission to become a professional in the field of computer vision.  
+📚 In 2023, I rejoined **TU/e** to pursue my PhD, diving deeper into the intersection of AI and real-world applications.
+
+
 <!--
-**Sara-Esam/Sara-Esam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sara-Esam/Sara-Esam** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏢 After graduation, I joined **Cyclomedia B.N.** as a **Computer Vision Expert**, where I worked on deploying deep-learning-based solutions for insight extraction from street imagery
+Since then, I've been pursuing ways to develop into a professional in the field of computer vision. I rejoined TU/e in 2023 pursuing a PhD degree.
 
 Here are some ideas to get you started:
 
